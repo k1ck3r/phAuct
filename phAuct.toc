@@ -1,0 +1,10 @@
+## Interface: 80000
+## Version: 1.0
+
+
+## Title: phAuct
+## Notes: Double click an auction to buy it out.
+
+## Author: phren
+
+phAuct.lua
